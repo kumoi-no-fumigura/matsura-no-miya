@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/matsura-no-miya",
  "yomi": "まつらのみやものがたり",
  "category": "物語",
- "description": null,
+ "description": {
+  "kind": "物語",
+  "era": "鎌倉初期",
+  "author": "未詳（藤原定家とする説が有力）",
+  "desc": "藤原京の時代、遣唐使として唐に渡った橘氏忠が、唐の后らと恋をし、戦乱にも巻き込まれる物語。末尾は古い物語を写したという体裁をとる。"
+ },
  "editions": [
   {
    "pid": "936506",
